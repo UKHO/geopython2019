@@ -2,7 +2,7 @@
 
 Material based on the talk "PyViz for Mapping Global Shipping" @ GeoPython 2019. It is based heavily on various [PyViz](https://pyviz.org/) examples, so be sure to also check out them for more information.
 
-![AIS Explorer Dashboard](app.png)
+![AIS Explorer App](app.png)
 
 # Installation
 Assuming [Miniconda](https://docs.conda.io/en/latest/miniconda.html) (or [Anaconda](https://www.anaconda.com/distribution/#download-section)) is installed, within the root of the repo folder, run:
@@ -26,7 +26,7 @@ You can often get some free/open AIS data online (not neccessarily global).
 ## Start the app
 Having activated your conda environment with `conda activate geopython`, you can either start a `jupyter notebook` and run all the cells within [app.ipynb](https://github.com/UKHO/geopython2019/app.ipynb).
 
-Alternatively, [Panel](http://panel.pyviz.org/) allows you to serve an app via:
+Alternatively, [Panel](http://panel.pyviz.org/) allows you to serve an app via (normally http://localhost:5006/app):
 
 ```
 panel serve app.ipynb
