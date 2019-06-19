@@ -1,8 +1,8 @@
 # geopython2019
 
-Material based on the talk "PyViz for Mapping Global Shipping" @ GeoPython 2019
+Material based on the talk "PyViz for Mapping Global Shipping" @ GeoPython 2019. It is based heavily on various [PyViz](https://pyviz.org/) examples, so be sure to also check out them for more information.
 
-![AIS Explorer Dashboard](dashboard.png)
+![AIS Explorer Dashboard](app.png)
 
 # Installation
 Assuming [Miniconda](https://docs.conda.io/en/latest/miniconda.html) (or [Anaconda](https://www.anaconda.com/distribution/#download-section)) is installed, within the root of the repo folder, run:
