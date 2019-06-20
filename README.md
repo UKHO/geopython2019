@@ -1,6 +1,6 @@
 # geopython2019
 
-Code based on the talk "PyViz for Mapping Global Shipping" @ GeoPython 2019. It is based heavily on various [PyViz](https://pyviz.org/) examples, so be sure to also check out them for more information.
+Code based on the talk "PyViz for Mapping Global Shipping" @ GeoPython 2019. It is based on various [PyViz](https://pyviz.org/) and [HoloViz](http://holoviz.org/) examples, so be sure to also check out them for more information.
 
 ![AIS Explorer App](app.png)
 
