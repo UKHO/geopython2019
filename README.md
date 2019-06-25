@@ -29,5 +29,5 @@ Having activated your conda environment with `conda activate geopython`, you can
 Alternatively, [Panel](http://panel.pyviz.org/) allows you to serve an app via (normally http://localhost:5006/app):
 
 ```
-panel serve app.ipynb
+$ panel serve app.ipynb
 ```
